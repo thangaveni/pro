@@ -1,0 +1,161 @@
+header{
+     background-color: black; 
+    padding: 30px;
+     
+}
+h1{
+    color:azure;
+    text-align: center;
+    text-shadow:brown 2px 2px;;
+}
+ul,li{
+    display: inline;
+    padding-left: 60px;
+    padding-right: 80px;
+    color:chocolate;
+    font-size: 20px;  
+}
+
+ul a{
+    text-decoration: none;
+}
+
+h1{
+    color:greenyellow;
+    
+}
+.id h2{
+   background-color:purple;
+    
+}
+.id{
+    text-align: center;
+    font-size: large;
+    color:cadetblue;
+}
+.id2{
+    color:cornflowerblue;
+    text-align: center;
+}
+.pic{
+    height: 220px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+   text-align: center;
+   
+}
+.id3{
+    text-align: center;
+    background-color: rgb(246, 246, 224);
+}
+.bio{
+    text-align: center;
+    font-size: 18px;
+}
+.abo{
+    color:tomato;
+    text-shadow:yellow 2px 2px;
+}
+.port{
+    background-color: burlywood;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+    
+
+}
+.chan{
+    color:forestgreen;
+    text-shadow: dar 2px;
+}
+.resume{
+    text-align: center;
+   
+}
+.res{
+    color:indigo;
+}
+.any{
+    color:hotpink;
+
+}
+
+
+.tec{
+    padding-top: 20px;
+
+}
+#name{
+    color: blueviolet;
+}
+progress{
+    width: 100px;
+}
+
+
+table,tr,th,td{
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+table{
+    justify-content: center;
+}
+table,th{
+    padding:40px ;
+    
+}
+.main{
+    color:rgb(147, 26, 26);
+}
+
+table tr{
+    color:rgb(178, 37, 37);
+    background-color:cyan;
+}
+.edu{
+    color: chocolate;
+}
+.skill{
+    text-align: center;
+    background-color:darkgray;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-right: 100px;
+
+}
+div{
+    padding-top: 10px;
+    padding-left: 1px;
+border-radius: 20%;
+}
+.resume{
+    text-align: center;
+
+}
+.web{
+    text-align: center;
+    background-color:rgb(141, 170, 85);
+    padding-bottom: 5px;
+    
+}
+#web{
+    padding-top: 10px;
+}
+marquee{
+    background-color:teal;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+main{
+    background-color: darkolivegreen;
+}
